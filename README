@@ -1,0 +1,4 @@
+Usage:
+	make all
+	sudo modprobe zlib
+	sudo insmod nf_ipcomp.ko
